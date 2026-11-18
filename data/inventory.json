@@ -1,0 +1,257 @@
+{
+  "format_version": 2,
+  "inventory": {
+    "width": 10,
+    "height": 6,
+    "items": [
+      {
+        "id": "bandage",
+        "x": 3,
+        "y": 0,
+        "width": 2,
+        "height": 1,
+        "weight_grams": 80
+      },
+      {
+        "id": "ration",
+        "x": 5,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "water",
+        "x": 3,
+        "y": 1,
+        "width": 2,
+        "height": 1,
+        "weight_grams": 500
+      },
+      {
+        "id": "battery-1",
+        "x": 6,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 300
+      },
+      {
+        "id": "ration-1",
+        "x": 5,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "electronics-1",
+        "x": 6,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "electronics-3",
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "ration-3",
+        "x": 1,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "battery-3",
+        "x": 2,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 300
+      },
+      {
+        "id": "electronics-4",
+        "x": 7,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "ration-4",
+        "x": 8,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "battery-4",
+        "x": 9,
+        "y": 0,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 300
+      },
+      {
+        "id": "ration-2",
+        "x": 0,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "battery-2",
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 300
+      },
+      {
+        "id": "electronics-2",
+        "x": 2,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "electronics-5",
+        "x": 9,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "electronics-6",
+        "x": 7,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "battery-6",
+        "x": 8,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 300
+      },
+      {
+        "id": "ration-6",
+        "x": 0,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "battery-7",
+        "x": 1,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 300
+      },
+      {
+        "id": "ration-7",
+        "x": 2,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "electronics-7",
+        "x": 3,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "electronics-9",
+        "x": 4,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "electronics-8",
+        "x": 5,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "electronics-10",
+        "x": 6,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "battery-11",
+        "x": 7,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 300
+      },
+      {
+        "id": "electronics-11",
+        "x": 8,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "ration-11",
+        "x": 9,
+        "y": 2,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "electronics-12",
+        "x": 0,
+        "y": 3,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 180
+      },
+      {
+        "id": "ration-12",
+        "x": 1,
+        "y": 3,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      },
+      {
+        "id": "ration-13",
+        "x": 2,
+        "y": 3,
+        "width": 1,
+        "height": 1,
+        "weight_grams": 250
+      }
+    ]
+  }
+}
