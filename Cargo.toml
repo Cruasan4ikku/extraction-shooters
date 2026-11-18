@@ -1,0 +1,35 @@
+[workspace]
+members = [
+    "crates/eft-core",
+    "crates/eft-backend",
+    "crates/eft-client",
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+license = "MIT"
+
+[profile.dev]
+incremental = true
+debug = 1
+
+[workspace.dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+axum = "0.8"
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "net", "fs", "io-util", "sync"] }
+bevy = { version = "0.15.3", default-features = false, features = [
+    "bevy_core_pipeline",
+    "bevy_audio",
+    "bevy_pbr",
+    "bevy_render",
+    "bevy_ui",
+    "bevy_winit",
+    "default_font",
+    "multi_threaded",
+    "tonemapping_luts",
+    "vorbis",
+    "wav",
+] }
